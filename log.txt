@@ -1,0 +1,3 @@
+I learned about while-loop and for-loop in the week-2 lecture.
+
+I also learned about version control and Git.
